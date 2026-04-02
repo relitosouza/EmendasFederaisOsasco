@@ -1,0 +1,13 @@
+Campo;Categoria;Descricao;Status no Portal
+id;Identificação;Identificador único da emenda no SIOP;Implementado
+codigo;Identificação;Código oficial da emenda (2026...);Implementado
+autor_nome;Autor;Nome completo do Parlamentar;Implementado
+autor_partido;Autor;Sigla do partido do autor;Implementado
+valor_dotacao;Financeiro;Valor total bruto da emenda;Implementado
+localizador;Localidade;Descrição da finalidade e local;Implementado
+beneficiario_nome;Destino;Nome da instituição/fundo beneficiário;Implementado
+cnpj;Destino;CNPJ do beneficiário;Disponível na API (Inativo)
+subfuncao;Área;Especialidade da aplicação (ex: Atenção Primária);Disponível na API (Inativo)
+valor_liquidado;Execução;Valor do serviço já verificado/entregue;Disponível na API (Inativo)
+valor_pago;Execução;Valor total já transferido;Disponível na API (Inativo)
+status_execucao;Execução;Situação física da obra/serviço;Disponível na API (Inativo)
